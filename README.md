@@ -28,21 +28,38 @@ Dokuz Eylül Üniversitesi İşletme Bölümü öğrencisiyim. Geleneksel işlet
 
 ### <sub>02 /</sub> Odaklandıklarım
 
-Web geliştirme alanında kendimi geliştiriyor, farklı teknolojileri öğrenerek deneyim kazanmaya çalışıyorum.
+Web geliştirmeyi yalnızca yeni teknolojiler öğrenmek olarak görmüyorum; öğrendiklerimi bir araya getirerek kullanışlı, anlaşılır ve iyi tasarlanmış deneyimler oluşturmak istiyorum.
 
-**Web geliştirme**
+**01 — Web temelleri ve diller**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=light" height="44" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js ve Tailwind CSS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=light" height="44" alt="HTML, CSS, JavaScript, TypeScript" />
 </picture>
 
-**Geliştirme araçları**
+<sub>HTML · CSS · JavaScript · TypeScript</sub>
+
+**02 — Frameworkler ve arayüz geliştirme**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&amp;theme=light" height="44" alt="React, Next.js, Tailwind CSS" />
+</picture>
+
+<sub>React · Next.js · Tailwind CSS</sub>
+
+**03 — Geliştirme araçları**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=light" height="44" alt="Git, GitHub ve VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=light" height="44" alt="Git, GitHub, Visual Studio Code" />
 </picture>
+
+<sub>Git · GitHub · VS Code</sub>
+
+**04 — Üzerine yoğunlaştığım konular**
+
+Duyarlı web tasarımı · Bileşen tabanlı arayüzler · Kullanıcı deneyimi · Web performansı
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/rule-dark.svg" />
