@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="56" viewBox="0 0 176 56" role="img" aria-label="E-posta">
+<rect x="1" y="1" width="174" height="54" rx="10" fill="#362D32" stroke="#655258"/>
+<rect x="20" y="15" width="26" height="26" rx="5" fill="#F2C6B3"/>
+<path d="M25 22 H41 V34 H25 Z M25 23 L33 29 L41 23" fill="none" stroke="#563D31" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58" y="34" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#FFE5D9">E-posta</text>
+<path d="M149 28 H158 M154 24 L158 28 L154 32" stroke="#FFE5D9" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
