@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="278" viewBox="0 0 1040 278" role="img" aria-label="Uğur Kaan Eroğlu — Business Student ve Web Developer">
+ <rect width="1040" height="278" fill="#0D1117"/>
+ <text x="67" y="72" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="3" fill="#929FB2">UĞUR KAAN EROĞLU</text>
+ <text x="63" y="140" font-family="'Noto Serif', Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.7" font-weight="600" fill="#F0F3F8">Uğur Kaan</text>
+ <text x="63" y="207" font-family="'Noto Serif', Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-1.7" font-weight="600" fill="#F0F3F8">Eroğlu<tspan fill="#C9B4ED">.</tspan></text>
+ <line x1="563" y1="50" x2="563" y2="224" stroke="#323943" stroke-width="2"/>
+ <rect x="561" y="50" width="4" height="45" rx="2" fill="#A6C7ED"/>
+ <rect x="561" y="95" width="4" height="27" rx="2" fill="#C9B4ED"/>
+ <rect x="561" y="122" width="4" height="16" rx="2" fill="#EFC1B4"/>
+ <text x="612" y="87" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="650" fill="#F0F3F8">Business Student</text>
+ <text x="612" y="121" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="650" fill="#F0F3F8">Web Developer</text>
+ <line x1="612" y1="149" x2="940" y2="149" stroke="#323943" stroke-width="1.5"/>
+ <text x="612" y="181" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#B2BBCB">İşletme ve teknolojinin</text>
+ <text x="612" y="204" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#B2BBCB">kesişiminde öğreniyor,</text>
+ <text x="612" y="227" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#B2BBCB">geliştiriyor ve üretiyorum.</text>
+ </svg>
